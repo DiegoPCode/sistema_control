@@ -1,0 +1,8 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+body {
+  color: #fff;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
